@@ -1,6 +1,6 @@
 //===================[ OWNER ]=====================\\
 global.owner = [
-  "62xxxx", //ganti nomor owner
+  "2348022159244", //ganti nomor owner
   "" //nomor owner kedua kalo ada
 ]
 
@@ -9,7 +9,7 @@ global.fotonya2 = "https://files.catbox.moe/bnmrr8.jpg"
 global.namastore = "Anggazyy Zcoder"
 global.linkfoto = 'https://files.catbox.moe/bnmrr8.jpg'
 global.idsaluran = '120363301756685796@newsletter'
-global.namaowner = 'Anggazyy ZcoderX'
+global.namaowner = 'Principal Richie🍀'
 global.wlcm = []
 global.wlcmm = []
 global.limitawal = {
